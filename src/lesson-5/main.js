@@ -2,8 +2,8 @@
 let quantity = 0;
 
 const counter = document.querySelector("span")
-/* functions */
 
+/* functions */
 function updateQuantityCounter(){
   counter.textContent = quantity;
 };
